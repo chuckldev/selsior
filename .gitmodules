@@ -1,3 +1,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = git@github.com:chuckldev/user-service.git
+[submodule "calc"]
+	path = calc
+	url = git@github.com:chuckldev/calc.git
