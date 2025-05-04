@@ -1,3 +1,3 @@
-module github.com/chuckldev/gostack
+module github.com/chuckldev/selsior
 
 go 1.24.2
