@@ -4,3 +4,6 @@
 [submodule "calc"]
 	path = calc
 	url = git@github.com:chuckldev/calc.git
+[submodule "gostack"]
+	path = gostack
+	url = git@github.com:chuckldev/gostack.git
